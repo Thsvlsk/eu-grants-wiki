@@ -8,12 +8,11 @@ Este repositório tem **só o site**, em páginas estáticas, aberto para recolh
 
 ## Como ver
 
-O GitHub mostra os ficheiros, não as páginas. Para ver o site:
+**Online, já montado: https://thsvlsk.github.io/eu-grants-wiki/**
 
-1. Botão verde **Code** → **Download ZIP**.
-2. Abrir a pasta descarregada e abrir **`index.html`** no browser.
+(Em alternativa: botão verde **Code** → **Download ZIP** e abrir `index.html` no browser.)
 
-(O filtro "Your programme" usa um pouco de JavaScript do próprio site; sem ele a página mostra tudo.)
+O filtro "Your programme" usa um pouco de JavaScript do próprio site; sem ele a página mostra tudo. As páginas pedem aos motores de busca para não serem indexadas.
 
 ## O que ver
 
