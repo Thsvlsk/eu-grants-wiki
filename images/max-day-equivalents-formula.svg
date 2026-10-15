@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 150">
+  <rect class="box" x="10" y="12" width="130" height="116" rx="12"/>
+  <text x="75" y="64">215 ÷ 12</text>
+  <text class="sub" x="75" y="90">for each month</text>
+  <text class="op" x="152" y="80">×</text>
+  <rect class="box" x="164" y="12" width="160" height="116" rx="12"/>
+  <text x="244" y="52">Number of months</text>
+  <text class="sub" x="244" y="76">employed within the</text>
+  <text class="sub" x="244" y="94">reporting period</text>
+  <text class="op" x="336" y="80">×</text>
+  <rect class="box" x="348" y="12" width="180" height="116" rx="12"/>
+  <text x="438" y="52">Working time factor</text>
+  <text class="sub" x="438" y="76">e.g. 1 for full-time,</text>
+  <text class="sub" x="438" y="94">0.5 for 50% part-time</text>
+  <text class="op" x="541" y="80">=</text>
+  <rect class="box hl" x="556" y="12" width="194" height="116" rx="12"/>
+  <text x="653" y="42">Maximum declarable</text>
+  <text x="653" y="62">day-equivalents</text>
+  <text class="sub" x="653" y="90">rounded to the nearest</text>
+  <text class="sub" x="653" y="108">half day-equivalent</text>
+</svg>

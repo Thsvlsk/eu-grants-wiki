@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 214">
+  <text x="380" y="24">Normally: one calculation for the whole reporting period</text>
+  <path class="line" d="M40 50 v-10 h680 v10"/>
+  <rect class="box hl" x="40" y="62" width="680" height="46" rx="10"/>
+  <line class="dash" x1="380" y1="56" x2="380" y2="156"/>
+  <text x="210" y="91">Calendar year 1</text>
+  <text x="550" y="91">Calendar year 2</text>
+  <text class="sub" x="380" y="174">31 December | 1 January</text>
+  <path class="line" d="M40 122 v10 h334 v-10"/>
+  <path class="line" d="M386 122 v10 h334 v-10"/>
+  <text x="207" y="152">Alternatively: one calculation</text>
+  <text x="553" y="152">Alternatively: one calculation</text>
+  <text class="sub" x="207" y="196">months of year 1 within the period</text>
+  <text class="sub" x="553" y="196">months of year 2 within the period</text>
+</svg>
