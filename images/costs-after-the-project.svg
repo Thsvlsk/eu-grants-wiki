@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 214">
+  <rect class="box" x="20" y="40" width="230" height="56" rx="10"/>
+  <text x="135" y="74">Reporting period 1</text>
+  <rect class="box hl" x="250" y="40" width="250" height="56" rx="10"/>
+  <text x="375" y="74">Last reporting period</text>
+  <line class="dash" x1="510" y1="24" x2="510" y2="110"/>
+  <text class="sub" x="510" y="18">end of the action</text>
+  <rect class="box" x="520" y="40" width="220" height="56" rx="10"/>
+  <text x="630" y="66">After the action</text>
+  <text class="sub" x="630" y="86">final report, project review</text>
+  <path class="line" d="M630 102 v34 h-255 v-34 m-7 9 l7 -9 l7 9"/>
+  <text x="380" y="164">Extra days added to the last reporting period,</text>
+  <text x="380" y="186">at its daily rate (p. 54)</text>
+</svg>
