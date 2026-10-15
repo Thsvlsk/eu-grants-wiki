@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 236">
+  <rect class="box" x="10" y="14" width="160" height="100" rx="12"/>
+  <text x="90" y="46">1. Employee?</text>
+  <text class="sub" x="90" y="72">employment contract or</text>
+  <text class="sub" x="90" y="90">equivalent appointing act</text>
+  <path class="line" d="M176 64 h20 m-7 -7 l7 7 l-7 7"/>
+  <rect class="box" x="202" y="14" width="160" height="100" rx="12"/>
+  <text x="282" y="46">2. Assigned?</text>
+  <text class="sub" x="282" y="72">to the action, in a</text>
+  <text class="sub" x="282" y="90">documented decision</text>
+  <path class="line" d="M368 64 h20 m-7 -7 l7 7 l-7 7"/>
+  <rect class="box" x="394" y="14" width="160" height="100" rx="12"/>
+  <text x="474" y="46">3. Eligible items</text>
+  <text class="sub" x="474" y="72">salary, contributions,</text>
+  <text class="sub" x="474" y="90">taxes, linked costs</text>
+  <path class="line" d="M560 64 h20 m-7 -7 l7 7 l-7 7"/>
+  <rect class="box hl" x="586" y="14" width="164" height="100" rx="12"/>
+  <text x="668" y="54">Personnel costs</text>
+  <text class="sub" x="668" y="78">for employees (A.1)</text>
+
+  <line class="dash" x1="90" y1="120" x2="90" y2="160"/>
+  <text class="sub" x="90" y="180">No: not this category</text>
+  <text class="sub" x="90" y="198">(e.g. agency staff, seconded</text>
+  <text class="sub" x="90" y="216">staff, self-employed)</text>
+  <line class="dash" x1="282" y1="120" x2="282" y2="160"/>
+  <text class="sub" x="282" y="180">No: not eligible</text>
+</svg>
