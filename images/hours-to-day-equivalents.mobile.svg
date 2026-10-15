@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 576">
+  <rect class="box" x="10" y="10" width="320" height="82" rx="12"/>
+  <text x="170" y="40">Hours worked</text>
+  <text class="sub" x="170" y="62">on the action during</text>
+  <text class="sub" x="170" y="80">the reporting period</text>
+  <text class="op" x="170" y="124">÷</text>
+  <rect class="box" x="10" y="136" width="320" height="46" rx="12"/>
+  <text x="170" y="166">Hours of one day-equivalent</text>
+  <text class="op" x="170" y="214">=</text>
+  <rect class="box hl" x="10" y="226" width="320" height="64" rx="12"/>
+  <text x="170" y="256">Day-equivalents</text>
+  <text class="sub" x="170" y="278">rounded to the nearest half-day</text>
+  <text x="170" y="324">Hours of one day-equivalent: three options</text>
+  <rect class="box" x="10" y="336" width="320" height="64" rx="12"/>
+  <text x="170" y="366">Option 1</text>
+  <text class="sub" x="170" y="388">8 hours</text>
+  <rect class="box" x="10" y="410" width="320" height="64" rx="12"/>
+  <text x="170" y="440">Option 2</text>
+  <text class="sub" x="170" y="462">average working hours as per contract</text>
+  <rect class="box" x="10" y="484" width="320" height="82" rx="12"/>
+  <text x="170" y="514">Option 3</text>
+  <text class="sub" x="170" y="536">higher of annual productive hours and</text>
+  <text class="sub" x="170" y="554">90% of annual workable hours, ÷ 215</text>
+</svg>

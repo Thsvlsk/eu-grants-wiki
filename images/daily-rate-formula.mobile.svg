@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 630">
+  <rect class="box" x="10" y="10" width="320" height="82" rx="12"/>
+  <text x="170" y="40">Actual personnel costs</text>
+  <text class="sub" x="170" y="62">of the person, for the months</text>
+  <text class="sub" x="170" y="80">within the reporting period</text>
+  <text class="op" x="170" y="124">÷</text>
+  <rect class="box" x="10" y="136" width="320" height="68" rx="12"/>
+  <text x="170" y="166">Maximum declarable</text>
+  <text x="170" y="188">day-equivalents</text>
+  <text class="op" x="170" y="236">=</text>
+  <rect class="box hl" x="10" y="248" width="320" height="64" rx="12"/>
+  <text x="170" y="278">Daily rate</text>
+  <text class="sub" x="170" y="300">per person and period</text>
+  <text class="sub" x="170" y="346">then you use it:</text>
+  <rect class="box" x="10" y="358" width="320" height="64" rx="12"/>
+  <text x="170" y="388">Day-equivalents worked</text>
+  <text class="sub" x="170" y="410">on the action</text>
+  <text class="op" x="170" y="454">×</text>
+  <rect class="box hl" x="10" y="466" width="320" height="46" rx="12"/>
+  <text x="170" y="496">Daily rate</text>
+  <text class="op" x="170" y="544">=</text>
+  <rect class="box" x="10" y="556" width="320" height="64" rx="12"/>
+  <text x="170" y="586">Personnel costs</text>
+  <text class="sub" x="170" y="608">you declare for the person</text>
+</svg>

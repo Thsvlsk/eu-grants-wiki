@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 556">
+  <rect class="box" x="10" y="10" width="320" height="82" rx="12"/>
+  <text x="170" y="40">1. Employee?</text>
+  <text class="sub" x="170" y="62">employment contract or</text>
+  <text class="sub" x="170" y="80">equivalent appointing act</text>
+  <text class="sub" x="170" y="126">No: not this category (e.g. agency staff,</text>
+  <text class="sub" x="170" y="146">seconded staff, self-employed)</text>
+  <text class="op" x="170" y="190">↓</text>
+  <rect class="box" x="10" y="202" width="320" height="64" rx="12"/>
+  <text x="170" y="232">2. Assigned?</text>
+  <text class="sub" x="170" y="254">to the action, in a documented decision</text>
+  <text class="sub" x="170" y="300">No: not eligible</text>
+  <text class="op" x="170" y="344">↓</text>
+  <rect class="box" x="10" y="356" width="320" height="82" rx="12"/>
+  <text x="170" y="386">3. Eligible items</text>
+  <text class="sub" x="170" y="408">salary, contributions,</text>
+  <text class="sub" x="170" y="426">taxes, linked costs</text>
+  <text class="op" x="170" y="470">↓</text>
+  <rect class="box hl" x="10" y="482" width="320" height="64" rx="12"/>
+  <text x="170" y="512">Personnel costs</text>
+  <text class="sub" x="170" y="534">for employees (A.1)</text>
+</svg>
